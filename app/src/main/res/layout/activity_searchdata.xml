@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".searchdata">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:layout_marginTop="50dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="190dp"
+        android:hint="Owner's name"
+        android:textSize="16sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vehicle number"
+        android:layout_marginTop="100dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/vnumber"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="190dp"
+        android:hint="Number plate number"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="150dp"
+        android:text="Vehicle color"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/vcolor"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="190dp"
+        android:hint="Color of the vehicle"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vehicle Name"
+        android:layout_marginTop="200dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/vname"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="190dp"
+        android:hint="Vehicle name"
+        android:textSize="16sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vehicle Type"
+        android:layout_marginTop="250dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+    <TextView
+        android:id="@+id/vtype"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="190dp"
+        android:hint="Type of Vehicle"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mobile number"
+        android:layout_marginTop="300dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/mobile"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="190dp"
+        android:hint="Mobile number"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email ID"
+        android:layout_marginTop="350dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="190dp"
+        android:hint="Email address"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Address"
+        android:layout_marginTop="400dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/address"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:layout_marginLeft="190dp"
+        android:hint="Permanent address"
+        android:textSize="16sp"/>
+
+    <Button
+        android:id="@+id/sendmssg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/address"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:text="Generate Challan"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:paddingStart="40dp"
+        android:paddingEnd="40dp"
+        android:background="@drawable/button_gradient"
+        android:textAllCaps="false"
+        android:layout_marginBottom="50dp"
+        android:layout_marginTop="50dp"
+        android:textColor="#104770"
+        android:textSize="16sp"
+        android:fontFamily="@font/audiowide"/>
+    </RelativeLayout>
+
+</ScrollView>

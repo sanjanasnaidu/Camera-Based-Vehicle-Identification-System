@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391886047685",
+    "firebase_url": "https://talkative-5b063.firebaseio.com",
+    "project_id": "talkative-5b063",
+    "storage_bucket": "talkative-5b063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391886047685:android:4b143004867e1a637b63ac",
+        "android_client_info": {
+          "package_name": "com.innovvscript.ocrdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391886047685-r4rj0ntc5p0fgprkdqmfdmap1ifrhciu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXB_cqBTSVUic_CT1o4sRLAzHPnHGjSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391886047685-2ljin1alo2p1usgu5i41oguqaipdlgrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

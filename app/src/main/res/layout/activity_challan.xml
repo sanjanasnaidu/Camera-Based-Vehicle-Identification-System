@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".challan">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:layout_marginTop="50dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="190dp"
+        android:hint="Person Name"
+        android:text="Owner's Name"
+        android:textSize="16sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="E-Challan number"
+        android:layout_marginTop="100dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/cno"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="190dp"
+        android:hint="Challan number"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="150dp"
+        android:text="Date"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:hint="Select Date"
+        android:id="@+id/date"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="190dp"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Place"
+        android:layout_marginTop="200dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <EditText
+        android:id="@+id/place"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="190dp"
+        android:textColor="#A69C9A"
+        android:hint="Place"
+        android:textSize="16sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Traffic PS"
+        android:layout_marginTop="250dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <EditText
+        android:id="@+id/tps"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="190dp"
+        android:textColor="#A69C9A"
+        android:hint="Traffic PS"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vehicle type"
+        android:layout_marginTop="300dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/vtype"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="190dp"
+        android:hint="Vehicle type"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Violation"
+        android:layout_marginTop="350dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <Spinner
+        android:id="@+id/violation"
+        android:layout_width="200dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="190dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fine"
+        android:layout_marginTop="450dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/fine"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="190dp"
+        android:hint="Fine amount"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mobile number"
+        android:layout_marginTop="500dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/mobile"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="500dp"
+        android:layout_marginLeft="190dp"
+        android:hint="10 digit mobile number"
+        android:textSize="16sp"/>
+
+    <Button
+        android:id="@+id/sendmssg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/mobile"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:text="Send Message"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:fontFamily="@font/audiowide"
+        android:textSize="16sp"
+        android:paddingStart="40dp"
+        android:paddingEnd="40dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/button_gradient"
+        android:textAllCaps="false"
+        android:layout_marginTop="50dp"
+        android:textColor="#104770"/>
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".homepage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/quote"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="20dp"
+            android:fontFamily="@font/audiowide"
+            android:text="Start early\nDrive slowly\nReach safely"
+            android:textColor="#104770"
+            android:textSize="26sp"
+            android:layout_gravity="center"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background=" #a7a2a1  "
+            android:layout_below="@id/quote"
+            android:layout_marginTop="20dp"/>
+
+
+        <RelativeLayout
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="90dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/gradient_color"
+                        android:clickable="true"
+                        android:onClick="camera">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true">
+
+                            <ImageView
+                                android:id="@+id/iv"
+                                android:layout_width="80dp"
+                                android:layout_height="80dp"
+                                android:src="@drawable/camera"
+                                android:scaleType="centerInside"
+                                android:padding="8dp"
+                                android:layout_centerHorizontal="true"
+                                android:adjustViewBounds="true"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@id/iv"
+                                android:layout_centerHorizontal="true"
+                                android:fontFamily="@font/audiowide"
+                                android:text="Open Camera"
+                                android:textColor="#104770"
+                                android:textSize="26sp" />
+                        </RelativeLayout>
+
+                    </RelativeLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="90dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/gradient_color"
+                        android:layout_weight="0.65"
+                        android:clickable="true"
+                        android:onClick="search">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true">
+
+                            <ImageView
+                                android:id="@+id/iv4"
+                                android:layout_width="90dp"
+                                android:layout_height="90dp"
+                                android:src="@drawable/search"
+                                android:scaleType="centerInside"
+                                android:padding="8dp"
+                                android:layout_centerHorizontal="true"
+                                android:adjustViewBounds="true"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@id/iv4"
+                                android:layout_centerHorizontal="true"
+                                android:fontFamily="@font/audiowide"
+                                android:text="Search"
+                                android:textColor="#104770"
+                                android:textSize="26sp" />
+                        </RelativeLayout>
+
+                    </RelativeLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/footer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="#fece2f"
+            android:gravity="center"
+            android:layout_marginTop="60pt">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="serif"
+                android:text="Copyright © 2020.All Rights Reserved."
+                android:textColor="#104470"
+                android:textSize="10sp" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</ScrollView>

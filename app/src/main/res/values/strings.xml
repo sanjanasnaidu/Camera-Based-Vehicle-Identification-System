@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Traffic Violation</string>
+    <string name="find_text">Extract</string>
+    <string name="take_pic">Import</string>
+    <string name="select_image_for_text_recognition">Select image for text recognition</string>
+    <string name="choose_an_image">Import image to detect number plate and then extract</string>
+    <string-array name="vehicletype">
+        <item>---select---</item>
+        <item>Two-wheeler</item>
+        <item>Four-wheeler</item>
+    </string-array>
+    <string-array name="twowheeler">
+        <item>---select---</item>
+        <item>General Offence</item>
+        <item>Violation of Road Rules</item>
+        <item>Over-Speeding</item>
+        <item>Rash Driving</item>
+        <item>Drunk Driving</item>
+        <item>Not Wearing Helmet</item>
+        <item>Blocking Way for Emergency Vehicles</item>
+        <item>Overloading of Passengers</item>
+    </string-array>
+    <string-array name="fourwheeler">
+        <item>---select---</item>
+        <item>Violation of Road Rules</item>
+        <item>Violation of Road Rules</item>
+        <item>Over-Speeding</item>
+        <item>Rash Driving</item>
+        <item>Drunk Driving</item>
+        <item>Not Wearing Seatbelt</item>
+        <item>Blocking Way for Emergency Vehicles</item>
+        <item>Overloading of Passengers</item>
+    </string-array>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.The application will now exit.</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Ocr Detector Sample</string>
+    <string name="ocr_header">Click <i>Click to Capture</i> button to detect number plate</string>
+    <string name="read_text">Click to Capture</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success">Number plate read successfully</string>
+    <string name="ocr_failure">No Number plate captured</string>
+    <string name="ocr_error">"Error reading number plate: %1$s"</string>
+</resources>
