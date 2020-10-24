@@ -1,0 +1,328 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\5a91d1e99dfac67d6bfdede94de8064c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\b0b14fbe1e5bf8d016bf8624df4245d7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\06aac4773d5f8d3b94ec222c2c2b292e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-ml-vision:15.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\7f249dfa6f91671d988a32a8a53df823\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\10fb2100ef30e28884006e4776d76213\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\153abbcbb03b65ff3c4e0c3a29ec1436\AndroidManifest.xml:2:1-11:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.4] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\77da4ca83ffabb660b759048303fb707\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4de62d0235d1b92f26aeead6cfb4ac25\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\ca39ba5736fbabf19fa130b2c83b5b67\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\eaa91deb8bf74de404182660ffdc5258\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-common:15.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\f850b28e3592ee8a1327cc0c6c368cd6\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\011b2f89f3a33c6d1a8bc0e422f88c3f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\911f7468bea0838316c4c3bfb42b6f4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\aa6f7945818b40bbce2c5500d22c503f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4944a51a5e0fb0a25edbfde52ecf133a\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\00d1bab40cfa9fa2e381b1f305ffb6b6\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\31e7bc5a385f3a236f7b139fdfa564ae\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\61f931a248ceb8ec2f1c4fea90ef94df\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\e64a3a466de08cacd714d64e0bfb7dd5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4ebcb23405d5c5c041d2dbe6dbaf4683\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\bb7b87ba06fec132b2e16e3e0dbd42c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\87e50d989cd9e3e2baf83f6a01cf8c83\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\bdb613db305d52cd9b1d52529d4a502b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\10d124d379e5abada5781bc65fb53722\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\0620767213bf274258a2a886e980261d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\c4707c115e306f4b145c9587dbd1a343\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\36e7ab8e6e7f77355474c341672e3ca4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\37e645a6789b56c839b1c761afb01598\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\6cec4faa2fc75b988ab3a565aecccb0b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\5e32fe44321415be778326e69fed7737\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\13cb648d64cd920304dc1248f378febc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\fa27ac39f1430caf951e8ae8526c0175\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\e054e4f39753f83ffc88bc6d8f2051e3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\0dcdab08d8327badfefb31c094740e9a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\3ef0310ca6d7c5821cf65b8fcbdfcd60\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\53a9cb197d3b351cc678702d9bddec78\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\50d5d3ab67d68a6925f35b7c5498dd3e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\ec0e6116209dc3e4e5b041fb69e724a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\7c1848c06a42dd697e67c0fb75b7e131\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\1fc0ababd8bbdc23c35eb9da24d65807\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\0d26dc0787e7495e709bf08925393daf\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\a6b77bb46fdedacc474de2f75028cd48\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\8e78701e67044c25680809c94637f1a2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\49efc68a8345b3ded8e0ba74b5d554ed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\951794830ecb3592efe68515a0af3968\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\f3d9c97c27af2796efd1c3dec6c45839\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\8493854f203c076462c0857dd0fbfb12\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\fe76f87aa0d840bacb0eea5ea5eae942\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\a7563e5ef7eff1c3127e4770510dea98\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\8c105a9ed74235ea53e5ab9c70fb009c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\3f1b68bf46fcc6a982927d53b8b810e6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:5:5-39
+		INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:4:5-51
+	xmlns:dist
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:6:22-64
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:7:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:10:5-39:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\5a91d1e99dfac67d6bfdede94de8064c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\5a91d1e99dfac67d6bfdede94de8064c\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\06aac4773d5f8d3b94ec222c2c2b292e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\06aac4773d5f8d3b94ec222c2c2b292e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\10fb2100ef30e28884006e4776d76213\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\10fb2100ef30e28884006e4776d76213\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\153abbcbb03b65ff3c4e0c3a29ec1436\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\153abbcbb03b65ff3c4e0c3a29ec1436\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4de62d0235d1b92f26aeead6cfb4ac25\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4de62d0235d1b92f26aeead6cfb4ac25\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\ca39ba5736fbabf19fa130b2c83b5b67\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\ca39ba5736fbabf19fa130b2c83b5b67\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\eaa91deb8bf74de404182660ffdc5258\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\eaa91deb8bf74de404182660ffdc5258\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\011b2f89f3a33c6d1a8bc0e422f88c3f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\011b2f89f3a33c6d1a8bc0e422f88c3f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\aa6f7945818b40bbce2c5500d22c503f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\aa6f7945818b40bbce2c5500d22c503f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4944a51a5e0fb0a25edbfde52ecf133a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4944a51a5e0fb0a25edbfde52ecf133a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\00d1bab40cfa9fa2e381b1f305ffb6b6\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\00d1bab40cfa9fa2e381b1f305ffb6b6\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\31e7bc5a385f3a236f7b139fdfa564ae\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\31e7bc5a385f3a236f7b139fdfa564ae\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\61f931a248ceb8ec2f1c4fea90ef94df\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\61f931a248ceb8ec2f1c4fea90ef94df\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\7c1848c06a42dd697e67c0fb75b7e131\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\7c1848c06a42dd697e67c0fb75b7e131\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\0d26dc0787e7495e709bf08925393daf\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\0d26dc0787e7495e709bf08925393daf\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\7c1848c06a42dd697e67c0fb75b7e131\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:17:9-48
+	android:roundIcon
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:16:9-52
+activity#com.innovvscript.ocrdemo.challan
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:18:9-45
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:18:19-42
+activity#com.innovvscript.ocrdemo.searchdata
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:19:9-48
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:19:19-45
+activity#com.innovvscript.ocrdemo.homepage
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:20:9-46
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:20:19-43
+activity#com.innovvscript.ocrdemo.CameraCapture
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:21:9-22:44
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:22:13-42
+activity#com.innovvscript.ocrdemo.SplashScreen
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:23:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.innovvscript.ocrdemo.MainActivity
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:30:9-50
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:30:19-47
+activity#com.innovvscript.ocrdemo.OcrCaptureActivity
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:31:9-56
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:31:19-53
+meta-data#com.google.firebase.ml.vision.DEPENDENCIES
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:33:9-35:35
+	android:value
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:35:13-32
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:34:13-70
+meta-data#preloaded_fonts
+ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:36:9-38:57
+	android:resource
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:38:13-54
+	android:name
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml:37:13-43
+uses-sdk
+INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\5a91d1e99dfac67d6bfdede94de8064c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\5a91d1e99dfac67d6bfdede94de8064c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\b0b14fbe1e5bf8d016bf8624df4245d7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\b0b14fbe1e5bf8d016bf8624df4245d7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\06aac4773d5f8d3b94ec222c2c2b292e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\06aac4773d5f8d3b94ec222c2c2b292e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-ml-vision:15.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\7f249dfa6f91671d988a32a8a53df823\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:15.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\7f249dfa6f91671d988a32a8a53df823\AndroidManifest.xml:6:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\10fb2100ef30e28884006e4776d76213\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\10fb2100ef30e28884006e4776d76213\AndroidManifest.xml:7:5-43
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\153abbcbb03b65ff3c4e0c3a29ec1436\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\153abbcbb03b65ff3c4e0c3a29ec1436\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.4] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\77da4ca83ffabb660b759048303fb707\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.4] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\77da4ca83ffabb660b759048303fb707\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4de62d0235d1b92f26aeead6cfb4ac25\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4de62d0235d1b92f26aeead6cfb4ac25\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\ca39ba5736fbabf19fa130b2c83b5b67\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\ca39ba5736fbabf19fa130b2c83b5b67\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\eaa91deb8bf74de404182660ffdc5258\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\eaa91deb8bf74de404182660ffdc5258\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:15.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\f850b28e3592ee8a1327cc0c6c368cd6\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-common:15.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\f850b28e3592ee8a1327cc0c6c368cd6\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\011b2f89f3a33c6d1a8bc0e422f88c3f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\011b2f89f3a33c6d1a8bc0e422f88c3f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\911f7468bea0838316c4c3bfb42b6f4b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\911f7468bea0838316c4c3bfb42b6f4b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\aa6f7945818b40bbce2c5500d22c503f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\aa6f7945818b40bbce2c5500d22c503f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4944a51a5e0fb0a25edbfde52ecf133a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4944a51a5e0fb0a25edbfde52ecf133a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\00d1bab40cfa9fa2e381b1f305ffb6b6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\00d1bab40cfa9fa2e381b1f305ffb6b6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\31e7bc5a385f3a236f7b139fdfa564ae\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\31e7bc5a385f3a236f7b139fdfa564ae\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\61f931a248ceb8ec2f1c4fea90ef94df\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\61f931a248ceb8ec2f1c4fea90ef94df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\e64a3a466de08cacd714d64e0bfb7dd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\e64a3a466de08cacd714d64e0bfb7dd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4ebcb23405d5c5c041d2dbe6dbaf4683\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4ebcb23405d5c5c041d2dbe6dbaf4683\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\bb7b87ba06fec132b2e16e3e0dbd42c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\bb7b87ba06fec132b2e16e3e0dbd42c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\87e50d989cd9e3e2baf83f6a01cf8c83\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\87e50d989cd9e3e2baf83f6a01cf8c83\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\bdb613db305d52cd9b1d52529d4a502b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\bdb613db305d52cd9b1d52529d4a502b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\10d124d379e5abada5781bc65fb53722\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\10d124d379e5abada5781bc65fb53722\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\0620767213bf274258a2a886e980261d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\0620767213bf274258a2a886e980261d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\c4707c115e306f4b145c9587dbd1a343\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\c4707c115e306f4b145c9587dbd1a343\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\36e7ab8e6e7f77355474c341672e3ca4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\36e7ab8e6e7f77355474c341672e3ca4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\37e645a6789b56c839b1c761afb01598\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\37e645a6789b56c839b1c761afb01598\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\6cec4faa2fc75b988ab3a565aecccb0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\6cec4faa2fc75b988ab3a565aecccb0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\5e32fe44321415be778326e69fed7737\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\5e32fe44321415be778326e69fed7737\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\13cb648d64cd920304dc1248f378febc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\13cb648d64cd920304dc1248f378febc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\fa27ac39f1430caf951e8ae8526c0175\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\fa27ac39f1430caf951e8ae8526c0175\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\e054e4f39753f83ffc88bc6d8f2051e3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\e054e4f39753f83ffc88bc6d8f2051e3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\0dcdab08d8327badfefb31c094740e9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\0dcdab08d8327badfefb31c094740e9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\3ef0310ca6d7c5821cf65b8fcbdfcd60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\3ef0310ca6d7c5821cf65b8fcbdfcd60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\53a9cb197d3b351cc678702d9bddec78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\53a9cb197d3b351cc678702d9bddec78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\50d5d3ab67d68a6925f35b7c5498dd3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\50d5d3ab67d68a6925f35b7c5498dd3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\ec0e6116209dc3e4e5b041fb69e724a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\ec0e6116209dc3e4e5b041fb69e724a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\7c1848c06a42dd697e67c0fb75b7e131\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\7c1848c06a42dd697e67c0fb75b7e131\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\1fc0ababd8bbdc23c35eb9da24d65807\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\1fc0ababd8bbdc23c35eb9da24d65807\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\0d26dc0787e7495e709bf08925393daf\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\0d26dc0787e7495e709bf08925393daf\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\a6b77bb46fdedacc474de2f75028cd48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\a6b77bb46fdedacc474de2f75028cd48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\8e78701e67044c25680809c94637f1a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\8e78701e67044c25680809c94637f1a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\49efc68a8345b3ded8e0ba74b5d554ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\49efc68a8345b3ded8e0ba74b5d554ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\951794830ecb3592efe68515a0af3968\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\951794830ecb3592efe68515a0af3968\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\f3d9c97c27af2796efd1c3dec6c45839\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\f3d9c97c27af2796efd1c3dec6c45839\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\8493854f203c076462c0857dd0fbfb12\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\8493854f203c076462c0857dd0fbfb12\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\fe76f87aa0d840bacb0eea5ea5eae942\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\fe76f87aa0d840bacb0eea5ea5eae942\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\a7563e5ef7eff1c3127e4770510dea98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\a7563e5ef7eff1c3127e4770510dea98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\8c105a9ed74235ea53e5ab9c70fb009c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\8c105a9ed74235ea53e5ab9c70fb009c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\3f1b68bf46fcc6a982927d53b8b810e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\3f1b68bf46fcc6a982927d53b8b810e6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harry Potter\AndroidStudioProjects\Camera Based Vehicle Identification System\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4944a51a5e0fb0a25edbfde52ecf133a\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4944a51a5e0fb0a25edbfde52ecf133a\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4944a51a5e0fb0a25edbfde52ecf133a\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\4944a51a5e0fb0a25edbfde52ecf133a\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\00d1bab40cfa9fa2e381b1f305ffb6b6\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\00d1bab40cfa9fa2e381b1f305ffb6b6\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\00d1bab40cfa9fa2e381b1f305ffb6b6\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\00d1bab40cfa9fa2e381b1f305ffb6b6\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\00d1bab40cfa9fa2e381b1f305ffb6b6\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\61f931a248ceb8ec2f1c4fea90ef94df\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\61f931a248ceb8ec2f1c4fea90ef94df\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Harry Potter\.gradle\caches\transforms-2\files-2.1\61f931a248ceb8ec2f1c4fea90ef94df\AndroidManifest.xml:24:13-58
